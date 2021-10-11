@@ -2,6 +2,8 @@
 Kinaxis Project
 <h1/>
 
+Click to view website [Kinaxis](https://kinaxis-project.herokuapp.com/)
+
 ## Installation
 
 - git pull repository on your local
